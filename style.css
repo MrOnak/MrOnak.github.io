@@ -1,0 +1,14 @@
+body {
+  background-color: #222633;
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #B8BBC4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lobster', cursive;
+  color: #D2D6E0;
+}
+
+a {
+  color: #B8BBC4;
+}
